@@ -1,6 +1,5 @@
 import time
 from ipaddress import IPv4Network
-from colorama import Fore, Style
 from rich import print
 from rich.console import Console
 
